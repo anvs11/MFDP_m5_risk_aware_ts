@@ -1,6 +1,0 @@
-docs/*.pdf
-docs/*.pptx
-docs/*.key
-.DS_Store
-__pycache__/
-*.ipynb_checkpoints/"
